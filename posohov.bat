@@ -3,3 +3,10 @@ cd testovaya_papka
 md pelmeni
 md buzi
 cd pelmeni
+ni text1.txt
+ni text2.txt
+echo Много>>text2.txt
+echo строк>>text2.txt
+echo в>>text2.txt
+echo файле>>text2.txt
+rm text1.txt
